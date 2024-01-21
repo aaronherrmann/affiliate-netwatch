@@ -1,0 +1,5 @@
+# requirements.txt
+selenium==3.141.0
+scrapy==2.5.0
+scrapy-selenium==0.0.7
+chromedriver-binary==90.0.4430.24
